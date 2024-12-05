@@ -17,10 +17,8 @@ The goal is to make sustainability accessible, actionable, and engaging for all.
 
 ## 🛠️ Tech Stack  
 
-- **Framework**: React.js (or other chosen frameworks like Vue.js/Angular).  
-- **Styling**: Tailwind CSS, Sass, or Styled Components.  
-- **State Management**: Redux/Context API/Zustand.  
-- **API Integration**: Axios/Fetch for backend communication.  
+- **Framework**: React.js
+- **Styling**: Next UI
 - **Testing**: Jest/React Testing Library.  
 - **Deployment**: Vercel/Netlify.  
 
@@ -43,11 +41,6 @@ EcoHack-Frontend/
 ├── public/           # Public assets
 ├── src/
 │   ├── components/   # Reusable components
-│   ├── pages/        # Application pages
-│   ├── hooks/        # Custom hooks
-│   ├── services/     # API services
-│   ├── styles/       # Global and modular styles
-│   └── utils/        # Utility functions
 ├── tests/            # Test files
 ├── .env              # Environment variables
 ├── package.json      # Project configuration
@@ -55,13 +48,6 @@ EcoHack-Frontend/
 ```
 
 ---
-
-## ⚙️ Getting Started  
-
-### Prerequisites  
-Ensure you have the following installed:  
-- Node.js (v16.x or later)  
-- npm or yarn  
 
 ### Installation  
 
@@ -108,13 +94,6 @@ yarn test
 - [ ] Enhance accessibility (WCAG compliance).  
 - [ ] Integrate gamification features.  
 - [ ] Add social sharing options.  
-
----
-
-## 👫 Contributors  
-
-- [Your Name](https://github.com/your-username)  
-- [Contributor 2](https://github.com/contributor2)  
 
 We welcome contributions! Feel free to create issues or submit pull requests.  
 
